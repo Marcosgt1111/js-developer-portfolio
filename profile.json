@@ -1,0 +1,67 @@
+{
+    "name": "Marcos Estevam",
+    "photo": "https://avatars.githubusercontent.com/u/111695450?v=4",
+    "job": "Front End Devoloper",
+    "location": "São José dos Campos - SP",
+    "phone": "(12) 996591943",
+    "email": "marquinholetonia@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "Mongodb",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        }
+      ],
+      "softSkills": [
+        "Ouvinte",
+        "Pensamento Critico",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Adaptabilidade"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)",
+      "Espanhol (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Designer Grafico",
+        "period": "2017 - 2024",
+        "description": "Durante em minha carreira como designer Gráfico, onde desenvolvi uma ampla gama de habilidades e ganhei experiência sobre a importância da estética e da identidade visual. A criação de logotipos, materiais de marketing e campanhas de mídia social exige uma forte compreensão da teoria das cores, tipografia e composição. Meu trabalho ajudou a aumentar a visibilidade e o reconhecimento da marca desenvolvi um olhar atento para detalhes visuais e uma habilidade para comunicar a essência de uma marca."
+      }
+    ]
+  }
