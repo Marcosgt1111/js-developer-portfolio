@@ -1,0 +1,67 @@
+{
+  "name": "Marcos Estevam",
+  "photo": "https://avatars.githubusercontent.com/u/111695450?v=4",
+  "job": "Front End Developer",
+  "location": "São Paulo - SP",
+  "phone": "(12) 99659-1943",
+  "email": "marquinholetonia@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Ouvinte",
+      "Pensamento Critico",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Adaptabilidade"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "projetos": [
+    {
+      "name": "Paginas Web Dinamicas",
+      "url": "https://github.com/Marcosgt1111/Construindo-paginas-Web-dinamicas",
+      "github": true
+    },
+    {
+      "name": "Sistema de Estoque",
+      "url": "https://github.com/Marcosgt1111/Sistema-de-estoque-em-python",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Designer Grafico / Comunicação Visual",
+      "period": "2017 - 2024",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+    }
+  ]
+}
