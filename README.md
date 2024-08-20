@@ -13,18 +13,18 @@ Bem-vindo ao meu portfólio online! Este projeto foi criado com o objetivo de ap
 
 - **Design Responsivo**: O site é totalmente responsivo e pode ser acessado em desktops, tablets e smartphones.
 - **Animações e Transições**: Utilização de CSS para animações suaves que melhoram a experiência do usuário.
-- **Interatividade**: JavaScript foi utilizado para adicionar funcionalidades como sliders de imagens, modais, e outros elementos interativos.
+- **Interatividade**: JavaScript foi utilizado para adicionar funcionalidades como no accordeon, modais, e outros elementos interativos.
 
 ## 📸 Capturas de Tela
 
-### Página Inicial
-![Página Inicial](./caminho/para/screenshot1.png)
-
 ### Sobre Mim
-![Sobre Mim](./caminho/para/screenshot2.png)
+![foto1](https://github.com/user-attachments/assets/ea726d71-1a47-44c2-a042-1ff03e274cdb)
+
+### Educação
+![foto2](https://github.com/user-attachments/assets/16adda38-b13d-405d-a043-2aaa3f567a2f)
 
 ### Projetos
-![Projetos](./caminho/para/screenshot3.png)
+![foto3](https://github.com/user-attachments/assets/5a45a0fb-68b2-4ecc-918e-1ffe9f801b30)
 
 ## 📱 Teste em Diferentes Dispositivos
 
@@ -32,7 +32,7 @@ Este portfólio foi testado em vários dispositivos para garantir que o layout s
 
 ## 🚀 Como Acessar
 
-Você pode acessar o meu portfólio diretamente através deste link: [Meu Portfólio](https://seu-site.com).
+Você pode acessar o meu portfólio diretamente através deste link: [Meu Portfólio](https://marcosgt1111.github.io/js-developer-portfolio/).
 
 ## 🔧 Como Executar Localmente
 
