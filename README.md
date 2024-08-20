@@ -34,10 +34,3 @@ Este portfólio foi testado em vários dispositivos para garantir que o layout s
 
 Você pode acessar o meu portfólio diretamente através deste link: [Meu Portfólio](https://marcosgt1111.github.io/js-developer-portfolio/).
 
-## 🔧 Como Executar Localmente
-
-Caso queira executar o projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-portfolio.git
